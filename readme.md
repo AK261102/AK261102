@@ -1,114 +1,129 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Ashish%20Kumar&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20AI/ML%20Engineer&descSize=20&descAlignY=55)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Ashish%20Kumar&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20AI/ML%20Engineer&descSize=18&descAlignY=62&descColor=B0B0B0)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Software+Engineer+%F0%9F%92%BB;MERN+Stack+Developer+%F0%9F%8C%90;Machine+Learning+Enthusiast+%F0%9F%A4%96;Data+Analytics+Explorer+%F0%9F%93%8A;Open+Source+Contributor+%E2%9C%A8)](https://github.com/AK261102)
+<a href="https://github.com/AK261102">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=650&height=100&lines=%E2%9A%A1+Turning+Ideas+into+Scalable+Solutions;%F0%9F%A7%A0+ML+%7C+MERN+%7C+Next.js+%7C+Data+Analytics;%F0%9F%8E%AF+Clean+Code+%E2%80%A2+Smart+Systems+%E2%80%A2+Real+Impact" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/-Ashish_Kumar-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-137363224)
+[![Twitter](https://img.shields.io/badge/-@ashi35850-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ashi35850)
+[![Instagram](https://img.shields.io/badge/-@ak261.1-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/ak261.1/)
+[![LeetCode](https://img.shields.io/badge/-bshphinx-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/bshphinx)
+[![Gmail](https://img.shields.io/badge/-ak503005@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:ak503005@gmail.com)
+[![Resume](https://img.shields.io/badge/-📄_Resume-2ea44f?style=flat)](https://drive.google.com/file/d/1mK3aR48OFEKmBxsDLepwzO_qGb8J65HK/view?usp=drive_link)
+[![Profile Views](https://komarev.com/ghpvc/?username=ak261102&color=6C63FF&style=flat&label=visitors)](https://github.com/AK261102)
 
 </div>
 
 <br/>
 
-<img align="right" alt="Coding" width="360" src="https://media.licdn.com/dms/image/C4E12AQHhfpP2slLoXw/article-cover_image-shrink_600_2000/0/1578791251071?e=2147483647&v=beta&t=z0mDGgtn6FAWN0lu2QP80ugvAfOnWcJ3acz7Rk">
+<!-- ABOUT ME SECTION -->
 
-## 🧑‍💻 About Me
-```yaml
-name: Ashish Kumar
-location: India 🇮🇳
-role: Software Engineer
-focus:
-  - Full Stack Web Development
-  - Machine Learning & AI
-  - Data Analytics
-currently_learning:
-  - MERN Stack
-  - Deep Learning
-  - Advanced Data Pipelines
-fun_fact: >
-  Listening to upbeat music while
-  working out boosts performance
-  by up to 15%! 🎶💪
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+
+I'm a **Software Engineer** based in India who loves building things that live on the internet. I specialize in crafting robust full-stack applications and exploring the frontiers of AI/ML.
+
+```javascript
+const ashish = {
+    pronouns: "he" | "him",
+    currentRole: "Software Engineer",
+    techStack: {
+        frontend:  ["React", "Next.js", "TypeScript", "Tailwind"],
+        backend:   ["Node.js", "Express", "REST APIs"],
+        databases: ["MongoDB", "PostgreSQL", "MySQL"],
+        ai_ml:     ["Scikit-Learn", "Pandas", "OpenCV"],
+        devOps:    ["Docker", "Git", "Linux"]
+    },
+    currentlyLearning: ["Advanced ML", "System Design", "Cloud Architecture"],
+    challengeGoal: "Contribute to open source every single day in 2026"
+};
 ```
 
 <br clear="both"/>
 
+---
+
+<!-- TECH STACK SECTION -->
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Tech Arsenal
+
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🔗_Portfolio-AK261102-6C63FF?style=for-the-badge)](https://github.com/AK261102)
-[![Resume](https://img.shields.io/badge/📄_Resume-View_Here-2ea44f?style=for-the-badge)](https://drive.google.com/file/d/1mK3aR48OFEKmBxsDLepwzO_qGb8J65HK/view?usp=drive_link)
-[![Email](https://img.shields.io/badge/📫_Email-ak503005@gmail.com-EA4335?style=for-the-badge)](mailto:ak503005@gmail.com)
+<table>
+<tr>
+<td align="center" width="20%">
+
+**🔤 Languages**
+
+</td>
+<td align="center" width="20%">
+
+**🌐 Frontend**
+
+</td>
+<td align="center" width="20%">
+
+**⚙️ Backend**
+
+</td>
+<td align="center" width="20%">
+
+**🤖 AI / ML**
+
+</td>
+<td align="center" width="20%">
+
+**🔧 DevOps**
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python&perline=3" alt="languages"/>
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,bootstrap,sass,html,css&perline=4" alt="frontend"/>
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,mysql&perline=3" alt="backend"/>
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=sklearn,opencv,matlab&perline=3" alt="ai-ml"/>
+<br/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logoColor=white" alt="seaborn"/>
+
+</td>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,git,linux,postman&perline=2" alt="devops"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 🤝 Connect with Me
+<!-- GITHUB STATS SECTION -->
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> GitHub Analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumar-137363224)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashi35850)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ak261.1/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/bshphinx)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### ⚙️ Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🤖 AI/ML & Data Science
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logoColor=white)
-
-### 🔧 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ak261102&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ak261102&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak261102&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ak261102&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=c9d1d9&count_private=true&ring_color=6C63FF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ak261102&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6347&currStreakLabel=6C63FF&sideLabels=6C63FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
 
 </div>
 
@@ -116,32 +131,81 @@ fun_fact: >
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ak261102&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF" width="95%" alt="Activity Graph"/>
+<img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ak261102&layout=donut-vertical&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=c9d1d9" alt="Top Languages" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ak261102&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&custom_title=Contribution%20Timeline" width="95%" alt="Activity Graph"/>
 
 </div>
 
 ---
 
+<!-- TROPHY SECTION -->
+
+## 🏆 GitHub Trophies
+
 <div align="center">
 
-### 🐍 Contribution Snake
+<img src="https://github-profile-trophy.vercel.app/?username=ak261102&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="Trophies" width="95%"/>
+
+</div>
+
+---
+
+<!-- SNAKE ANIMATION -->
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ak261102/ak261102/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ak261102/ak261102/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ak261102/ak261102/output/github-snake-dark.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ak261102/ak261102/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
 ---
 
+<!-- QUOTE SECTION -->
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ak261102&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="70%"/>
 
 </div>
+
+<br/>
+
+<!-- METRICS -->
+
+<div align="center">
+
+```text
+🎯 Focused on:   Building scalable full-stack apps & intelligent ML systems
+📚 Learning:     Advanced System Design, Cloud-Native Architecture
+🤝 Open to:      Collaborations on Open Source & AI/ML Projects
+💬 Ask me about: React, Node.js, Python, Machine Learning, DSA
+```
+
+</div>
+
+---
+
+<div align="center">
+
+### 💰 Support My Work
+
+If you find my projects useful, consider buying me a coffee!
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ak261102)
+
+</div>
+
+<br/>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
